@@ -7,7 +7,7 @@ Existe hoje uma infinidade de tecnologias e também uma infinidade de conteúdos
 
 E agora por onde começar?
 
-Acredito que o caminho mais fácil para já começar a criar projetos e focar em tornar-se um Web Designer. 
+Acredito que o caminho mais fácil para já começar a criar projetos é focar em tornar-se um Web Designer. 
 
 "Especialidade em que o foco é a criação de interfaces visuais, layouts, banners, projetos ou scripts para páginas da web (Internet), com o intuito de melhorar a estrutura dos sites, tendo em conta as informações que o cliente forneceu para atrair o seu público-alvo".</br>
 *Dicionário Online de Português*
