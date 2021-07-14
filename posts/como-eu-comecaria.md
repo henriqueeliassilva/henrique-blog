@@ -39,3 +39,5 @@ Leia esse texto também [JavaScript fundamentals before learning React](https://
 
 Faça todos os cursos e leia todos os textos nesse [React for designers](https://reactfordesigners.com)
 
+Esse caminho que apresentei é o mesmo que estou percorrendo. Espero que seja útil.
+
