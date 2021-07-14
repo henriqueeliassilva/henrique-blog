@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi! I'm a italian Brazilian Web Developer.</p>
         <p>
-        I build Websites e Web Apps and connect technologies to help companies to grow. 
+        I build Websites, Web Apps and connect technologies to help companies to grow. 
         </p>
         <p><em> Ajudo empresas a crescerem criando websites, aplicativos para web e integrando as melhores tecnologias.</em></p>
         <a href="https://api.whatsapp.com/send/?phone=5548998114079">👋 Say Hello</a>
