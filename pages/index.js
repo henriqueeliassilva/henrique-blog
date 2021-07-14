@@ -19,7 +19,7 @@ export default function Home({ allPostsData }) {
         <p><em> Ajudo empresas a crescerem criando websites, aplicativos para web e integrando as melhores tecnologias.</em></p>
         <a href="https://api.whatsapp.com/send/?phone=5548998114079">👋 Say Hello</a>
       </section>
-      {/* <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
@@ -34,7 +34,7 @@ export default function Home({ allPostsData }) {
             </li>
           ))}
         </ul>
-      </section> */}
+      </section>
     </Layout>
   )
 }
