@@ -7,13 +7,18 @@ Comece lendo esse material [Getting started with the Web](https://developer.mozi
 
 Faça esse curso [Introduction to HTML, CSS and JavaScript](https://frontendmasters.com/bootcamp)
 
+Bootcamp Learning Path
+
+- Introduction to HTML ☑️
+- Introduction to CSS ☑️
+
 Leia esse texto [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
 
 Leia esse texto também [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements#entering-react-after-learning-javascript)
 
 Faça todos os cursos e leia todos os textos nesse site [React for designers](https://reactfordesigners.com)
 
-Faça o máxima de cursos que conseguir nesse site [Freecodecamp](https://freecodecamp.com)
+Faça o máxima de cursos que conseguir os cursos que lhe interessam nesse site [Freecodecamp](https://freecodecamp.com)
 
 Responsive Web Design ✅
 
@@ -25,6 +30,10 @@ Responsive Web Design ✅
 - CSS Flexbox ☑️
 - CSS Grid ☑️
 - Responsive Web Design Projects ☑️
+
+JavaScript Algorithms and Data Structures
+
+- Basic JavaScript ☑️
 
 Faça o máxima de cursos que conseguir nesse site [Codecademy](https://codecademy.com)
 
