@@ -13,9 +13,9 @@ Leia esse texto também [JavaScript fundamentals before learning React](https://
 
 Faça todos os cursos e leia todos os textos nesse site [React for designers](https://reactfordesigners.com)
 
-Faça o máxima de cursos que conseguir nesse site [Freecodecamp](freecodecamp.com)
+Faça o máxima de cursos que conseguir nesse site [Freecodecamp](https://freecodecamp.com)
 
-Faça o máxima de cursos que conseguir nesse site [Codecademy](codecademy.com)
+Faça o máxima de cursos que conseguir nesse site [Codecademy](https://codecademy.com)
 
 Esse caminho que apresentei é o mesmo que estou percorrendo.<br>Espero que seja útil.
 
