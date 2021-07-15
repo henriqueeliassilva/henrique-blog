@@ -17,5 +17,5 @@ Faça o máxima de cursos que conseguir nesse site [Freecodecamp](freecodecamp.c
 
 Faça o máxima de cursos que conseguir nesse site [Codecademy](codecademy.com)
 
-Esse caminho que apresentei é o mesmo que estou percorrendo. Espero que seja útil.
+Esse caminho que apresentei é o mesmo que estou percorrendo.<br>Espero que seja útil.
 
