@@ -49,7 +49,7 @@ Faça os cursos que quiser na [Codecademy](https://codecademy.com).
 
 Curso que dá uma boa base sobre os princípios de design para web. 
 
-#### Web Design for Web Developers: Build Beautiful Websites! [Free](https://www.udemy.com/course/web-design-secrets). ✅
+#### Web Design for Web Developers: Build Beautiful Websites! [Free](https://www.udemy.com/course/web-design-secrets) ✅
 
 Precisando de algo fique a vontade para entrar em contato.
 
