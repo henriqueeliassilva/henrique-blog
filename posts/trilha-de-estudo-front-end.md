@@ -39,7 +39,7 @@ Faça os cursos que lhe interessam nesse site [Freecodecamp](https://freecodecam
 
 - Basic JavaScript
 
-Faça os cursos que conseguir quiser aqui [Codecademy](https://codecademy.com).
+Faça os cursos que quiser na [Codecademy](https://codecademy.com).
 
 ***Learn HTML*** ✅
 
