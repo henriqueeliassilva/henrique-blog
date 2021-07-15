@@ -1,5 +1,5 @@
 ---
-title: "Trilha de estudo de programação para quem domina o inglês."
+title: "Trilha de estudo de Front End para quem domina o inglês."
 date: "2021-07-14"
 ---
 
