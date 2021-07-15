@@ -11,7 +11,7 @@ Leia esse texto [What is React: A Visual Introduction For Beginners](https://lea
 
 Leia esse texto também [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements#entering-react-after-learning-javascript)
 
-Faça todos os cursos e leia todos os textos nesse [React for designers](https://reactfordesigners.com)
+Faça todos os cursos e leia todos os textos nesse site [React for designers](https://reactfordesigners.com)
 
 Faça o máxima de cursos que conseguir nesse site [Freecodecamp](freecodecamp.com)
 
