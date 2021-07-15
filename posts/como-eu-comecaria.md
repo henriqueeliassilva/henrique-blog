@@ -3,7 +3,7 @@ title: "Trilha de estudo de Front End para quem domina o inglês."
 date: "2021-07-14"
 ---
 
-Comece lendo esse material [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+Comece lendo esse material [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) ✅
 
 Faça esse curso [Introduction to HTML, CSS and JavaScript](https://frontendmasters.com/bootcamp)
 
