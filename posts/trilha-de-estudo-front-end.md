@@ -11,7 +11,7 @@ Comece lendo esse material [Getting started with the Web](https://developer.mozi
 
 Faça esse curso [Introduction to HTML, CSS and JavaScript](https://frontendmasters.com/bootcamp).
 
-***Bootcamp Learning Path***
+### Bootcamp Learning Path
 
 - Introduction to HTML
 - Introduction to CSS
@@ -24,7 +24,7 @@ Faça todos os cursos e leia todos os textos nesse site [React for designers](ht
 
 Faça os cursos que lhe interessam nesse site [Freecodecamp](https://freecodecamp.com).
 
-***Responsive Web Design*** ✅
+### Responsive Web Design ✅
 
 - Basic HTML and HTML5
 - Basic CSS
@@ -35,17 +35,17 @@ Faça os cursos que lhe interessam nesse site [Freecodecamp](https://freecodecam
 - CSS Grid
 - Responsive Web Design Projects
 
-***JavaScript Algorithms and Data Structures***
+### JavaScript Algorithms and Data Structures
 
 - Basic JavaScript
 
 Faça os cursos que quiser na [Codecademy](https://codecademy.com).
 
-***Learn HTML*** ✅
+### Learn HTML ✅
 
-***Learn CSS*** ✅
+### Learn CSS ✅
 
-***How to Make a Website with NameCheap*** ✅
+### How to Make a Website with NameCheap ✅
 
 Precisando de algo fique a vontade para entrar em contato.
 
