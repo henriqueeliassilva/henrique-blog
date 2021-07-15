@@ -15,7 +15,19 @@ Faça todos os cursos e leia todos os textos nesse site [React for designers](ht
 
 Faça o máxima de cursos que conseguir nesse site [Freecodecamp](https://freecodecamp.com)
 
+Responsive Web Design ✅
+
+- Basic HTML and HTML5 ☑️
+- Basic CSS ☑️
+- Applied Visual Design ☑️
+- Applied Accessibility ☑️
+- Responsive Web Design Principles ☑️
+- CSS Flexbox ☑️
+- CSS Grid ☑️
+- Responsive Web Design Projects ☑️
+
 Faça o máxima de cursos que conseguir nesse site [Codecademy](https://codecademy.com)
 
 Esse caminho que apresentei é o mesmo que estou percorrendo.<br>Espero que seja útil.
+
 
