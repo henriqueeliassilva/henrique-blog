@@ -45,6 +45,6 @@ Faça os cursos que conseguir quiser aqui [Codecademy](https://codecademy.com)
 - Learn CSS ☑️
 - How to Make a Website with NameCheap ☑️
 
-Espero que seja útil.
+Precisando de algo fique a vontade para entrar em contato.
 
 [👋 Say Hello](https://api.whatsapp.com/send/?phone=5548998114079")
