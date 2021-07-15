@@ -3,10 +3,9 @@ title: "Trilha de estudo de Front End para quem domina o inglês."
 date: "2021-07-14"
 ---
 
-Esse caminho é o mesmo que estou percorrendo. Escolhi o JavaScript porque hoje é possível fazer praticamente tudo com essa linguagem.<br>Espero que seja útil.
+Esse é o caminho que estou percorrendo. Escolhi o JavaScript porque hoje é possível fazer praticamente tudo com essa linguagem.
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2578_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/02p97","geo":"","time":"today 12-m"},{"keyword":"/m/012l1vxv","geo":"","time":"today 12-m"},{"keyword":"/m/05z1_","geo":"","time":"today 12-m"},{"keyword":"Ruby","geo":"","time":"today 12-m"},{"keyword":"/m/060kv","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F02p97,%2Fm%2F012l1vxv,%2Fm%2F05z1_,Ruby,%2Fm%2F060kv&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com.br:443/trends/embed/"}); </script>
-
+Veja o número de buscas de cada programação no [Google trends](https://trends.google.com.br/trends/explore?q=%2Fm%2F02p97,%2Fm%2F07sbkfb,%2Fm%2F05z1_,Ruby,%2Fm%2F060kv&hl=pt-BR&tz=180)
 
 Comece lendo esse material [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) ✅
 
@@ -46,5 +45,6 @@ Faça os cursos que conseguir quiser aqui [Codecademy](https://codecademy.com)
 - Learn CSS ☑️
 - How to Make a Website with NameCheap ☑️
 
+Espero que seja útil.
 
-
+[👋 Say Hello](https://api.whatsapp.com/send/?phone=5548998114079")
