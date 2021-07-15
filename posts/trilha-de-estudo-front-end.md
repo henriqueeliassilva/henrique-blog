@@ -13,8 +13,8 @@ Faça esse curso [Introduction to HTML, CSS and JavaScript](https://frontendmast
 
 ***Bootcamp Learning Path***
 
-☑️ Introduction to HTML</br>
-☑️ Introduction to CSS</br>
+- Introduction to HTML
+- Introduction to CSS
 
 Leia esse texto [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react). ✅
 
@@ -26,24 +26,26 @@ Faça os cursos que lhe interessam nesse site [Freecodecamp](https://freecodecam
 
 ***Responsive Web Design*** ✅
 
-☑️ Basic HTML and HTML5</br>
-☑️ Basic CSS</br>
-☑️ Applied Visual Design</br>
-☑️ Applied Accessibility</br>
-☑️ Responsive Web Design Principles</br>
-☑️ CSS Flexbox</br>
-☑️ CSS Grid</br>
-☑️ Responsive Web Design Projects</br>
+- Basic HTML and HTML5
+- Basic CSS
+- Applied Visual Design
+- Applied Accessibility
+- Responsive Web Design Principles
+- CSS Flexbox
+- CSS Grid
+- Responsive Web Design Projects
 
 ***JavaScript Algorithms and Data Structures***
 
-☑️ Basic JavaScript</br>
+- Basic JavaScript
 
 Faça os cursos que conseguir quiser aqui [Codecademy](https://codecademy.com).
 
-☑️ Learn HTML</br>
-☑️ Learn CSS</br>
-☑️ How to Make a Website with NameCheap</br>
+***Learn HTML*** ✅
+
+***Learn CSS*** ✅
+
+***How to Make a Website with NameCheap*** ✅
 
 Precisando de algo fique a vontade para entrar em contato.
 
