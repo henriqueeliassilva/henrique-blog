@@ -5,7 +5,7 @@ date: "2021-07-14"
 
 Esse é o caminho que estou percorrendo. Escolhi o JavaScript porque hoje é possível fazer praticamente tudo com essa linguagem.
 
-Veja o número de buscas de cada programação no [Google trends](https://trends.google.com.br/trends/explore?q=%2Fm%2F02p97,%2Fm%2F07sbkfb,%2Fm%2F05z1_,Ruby,%2Fm%2F060kv&hl=pt-BR&tz=180)
+Ver a popularidade das principais linguagens [Google trends](https://trends.google.com.br/trends/explore?q=%2Fm%2F02p97,%2Fm%2F07sbkfb,%2Fm%2F05z1_,Ruby,%2Fm%2F060kv&hl=pt-BR&tz=180) pode ajudar você a tomar uma melhor decisão.
 
 Comece lendo esse material [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) ✅
 
