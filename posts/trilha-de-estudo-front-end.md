@@ -5,11 +5,18 @@ date: "2021-07-14"
 
 Esse é o caminho que estou percorrendo. Escolhi o JavaScript porque meu foco é desenvolver para web e hoje é possível fazer quase tudo com essa linguagem.
 
-Ver a popularidade das principais linguagens no [Google trends](https://trends.google.com.br/trends/explore?q=%2Fm%2F02p97,%2Fm%2F07sbkfb,%2Fm%2F05z1_,Ruby,%2Fm%2F060kv&hl=pt-BR&tz=180) pode ajudar você a tomar uma melhor decisão.
+Consulte a popularidade das principais linguagens no [Google trends](https://trends.google.com.br/trends/explore?q=%2Fm%2F02p97,%2Fm%2F07sbkfb,%2Fm%2F05z1_,Ruby,%2Fm%2F060kv&hl=pt-BR&tz=180) pode ajudar você a tomar uma melhor decisão.
 
-Comece lendo esse material [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web). ✅
+Li esse material aqui [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web). ✅
 
-Trilha de [JavaScript](https://egghead.io/learn/javascript).
+#### Trilha de [JavaScript](https://egghead.io/learn/javascript).
+
+Esse material explica de forma muito clara o que é a [DOM](https://egghead.io/learn/javascript/the-dom). ✅
+
+The Real Introduction to [JavaScript](https://egghead.io/learn/javascript/javascript-introduction).
+
+JavaScript Prerequisites [before React](https://egghead.io/learn/react/beginners/js-before-react).
+
 
 Faça esse curso [Introduction to HTML, CSS and JavaScript](https://frontendmasters.com/bootcamp).
 
