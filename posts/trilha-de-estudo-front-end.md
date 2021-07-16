@@ -9,6 +9,8 @@ Ver a popularidade das principais linguagens no [Google trends](https://trends.g
 
 Comece lendo esse material [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web). ✅
 
+Trilha de [JavaScript](https://egghead.io/learn/javascript).
+
 Faça esse curso [Introduction to HTML, CSS and JavaScript](https://frontendmasters.com/bootcamp).
 
 #### Bootcamp Learning Path
