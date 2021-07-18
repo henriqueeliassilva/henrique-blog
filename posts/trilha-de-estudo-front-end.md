@@ -53,7 +53,7 @@ Faça os cursos que lhe interessam nesse site [Freecodecamp](https://freecodecam
 
 - Basic JavaScript ✔️
 
-Faça os cursos que quiser na [Codecademy](https://codecademy.com).
+Faça os relacionados com Front End na [Codecademy](https://codecademy.com).
 
 #### Learn HTML ✔️
 
@@ -64,6 +64,11 @@ Faça os cursos que quiser na [Codecademy](https://codecademy.com).
 Curso que dá uma boa base sobre os princípios de design para web. 
 
 #### Web Design for Web Developers: Build Beautiful Websites! [Free](https://www.udemy.com/course/web-design-secrets) ✔️
+
+ A Complete Guide to [Flex-box](https://css-tricks.com/snippets/css/a-guide-to-flexbox).
+
+ A Complete Guide to [Grid](https://css-tricks.com/snippets/css/complete-guide-grid).
+
 
 Fale facilmente comigo. [👋 Say Hello](https://api.whatsapp.com/send/?phone=5548998114079")
 

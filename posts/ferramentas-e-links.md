@@ -26,3 +26,5 @@ lol [colors](lolcolors.com).
 CSS [validator](https://jigsaw.w3.org/css-validator).
 
 HTML [validator](https://validator.w3.org)
+
+Pixels to [EM](http://pxtoem.com).
