@@ -9,7 +9,7 @@ Consulte a popularidade das principais linguagens no [Google trends](https://tre
 
 Neste link [Stackoverflow’s 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved) você pode ter uma visão geral do mercado de tecnologia.
 
-Developer [roadmap](https://github.com/kamranahmedse/developer-roadmap).
+Developer [roadmap](https://roadmap.sh/frontend).
 
 Li esse material aqui e achei super útil [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web). ✔️
 
