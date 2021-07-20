@@ -19,7 +19,7 @@ Adobe [colors](https://color.adobe.com/explore).
 
 Flat UI [colors](https://flatuicolors.com).
 
-lol [colors](https://colors.lol).
+[colors](https://colors.lol) lol.
 
 lol [colors](lolcolors.com).
 

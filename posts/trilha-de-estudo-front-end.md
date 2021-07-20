@@ -9,6 +9,8 @@ Consulte a popularidade das principais linguagens no [Google trends](https://tre
 
 Neste link [Stackoverflow’s 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved) você pode ter uma visão geral do mercado de tecnologia.
 
+Developer [roadmap](https://github.com/kamranahmedse/developer-roadmap).
+
 Li esse material aqui e achei super útil [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web). ✔️
 
 Trilha da Mozzila para se tornar um [Front-end web developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer). 
@@ -53,7 +55,7 @@ Faça os cursos que lhe interessam nesse site [Freecodecamp](https://freecodecam
 
 - Basic JavaScript ✔️
 
-Faça os relacionados com Front End na [Codecademy](https://codecademy.com).
+Faça os cursos relacionados com Front End na [Codecademy](https://codecademy.com).
 
 #### Learn HTML ✔️
 
